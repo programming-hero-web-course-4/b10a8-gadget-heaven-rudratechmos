@@ -1,0 +1,162 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "UltraBook Pro",
+        "product_image": "https://i.ibb.co/BjWZKj8/laptops.jpg",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "A high-performance laptop with powerful specs for professional use.",
+        "Specification": [
+            "Intel i7 Processor",
+            "16GB RAM",
+            "512GB SSD",
+            "14-inch Display"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "2",
+        "product_title": "Gaming Beast",
+        "product_image": "https://i.ibb.co/BjWZKj8/laptops.jpg",
+        "category": "Laptops",
+        "price": 1500,
+        "description": "Gaming laptop with high-end graphics card and cooling system.",
+        "Specification": [
+            "Intel i9 Processor",
+            "32GB RAM",
+            "1TB SSD",
+            "17-inch Display"
+        ],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": "3",
+        "product_title": "BudgetMate",
+        "product_image": "https://i.ibb.co/BjWZKj8/laptops.jpg",
+        "category": "Laptops",
+        "price": 700,
+        "description": "Affordable laptop for everyday tasks and basic needs.",
+        "Specification": [
+            "Intel i5 Processor",
+            "8GB RAM",
+            "256GB SSD",
+            "15-inch Display"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "4",
+        "product_title": "Creative Studio",
+        "product_image": "https://i.ibb.co/BjWZKj8/laptops.jpg",
+        "category": "Laptops",
+        "price": 1800,
+        "description": "Laptop optimized for content creators with advanced graphics and color accuracy.",
+        "Specification": [
+            "Intel i7 Processor",
+            "16GB RAM",
+            "1TB SSD",
+            "16-inch 4K Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "5",
+        "product_title": "Student Light",
+        "product_image": "https://i.ibb.co/BjWZKj8/laptops.jpg",
+        "category": "Laptops",
+        "price": 550,
+        "description": "Lightweight laptop designed for students with basic features.",
+        "Specification": [
+            "Intel i3 Processor",
+            "4GB RAM",
+            "128GB SSD",
+            "14-inch Display"
+        ],
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "product_id": "6",
+        "product_title": "WorkStation Elite",
+        "product_image": "https://i.ibb.co/BjWZKj8/laptops.jpg",
+        "category": "Laptops",
+        "price": 2000,
+        "description": "Powerful workstation for professionals requiring extensive computing resources.",
+        "Specification": [
+            "Intel Xeon Processor",
+            "64GB RAM",
+            "2TB SSD",
+            "15-inch Display"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "7",
+        "product_title": "Galaxy Z Fold",
+        "product_image": "https://i.ibb.co/Fq54f2V/phones.jpg",
+        "category": "Phones",
+        "price": 1500,
+        "description": "A foldable smartphone with cutting-edge technology and versatility.",
+        "Specification": [
+            "Qualcomm Snapdragon Processor",
+            "12GB RAM",
+            "256GB Storage",
+            "Foldable AMOLED Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "8",
+        "product_title": "iPhone 13 Pro Max",
+        "product_image": "https://i.ibb.co/Fq54f2V/phones.jpg",
+        "category": "Phones",
+        "price": 1100,
+        "description": "Flagship iPhone with advanced camera and powerful processor.",
+        "Specification": [
+            "A15 Bionic Chip",
+            "6GB RAM",
+            "128GB Storage",
+            "6.7-inch Super Retina XDR Display"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "9",
+        "product_title": "Series 6 Smart Watch",
+        "product_image": "https://i.ibb.co/SyYnVTw/watch.jpg",
+        "category": "Smart Watches",
+        "price": 250,
+        "description": "Smartwatch with health monitoring and fitness tracking features.",
+        "Specification": [
+            "Heart Rate Monitor",
+            "GPS",
+            "Sleep Tracking",
+            "Water Resistant"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "10",
+        "product_title": "Fitness Tracker Plus",
+        "product_image": "https://i.ibb.co/SyYnVTw/watch.jpg",
+        "category": "Smart Watches",
+        "price": 200,
+        "description": "Affordable fitness tracker with essential health features.",
+        "Specification": [
+            "Step Counter",
+            "Calorie Tracker",
+            "Water Resistant",
+            "Bluetooth Connectivity"
+        ],
+        "availability": true,
+        "rating": 4.3
+    }
+]
